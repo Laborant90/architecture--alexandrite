@@ -126,7 +126,7 @@
         <mxCell id="qbrlrAwevSSXlZ_y9pfH-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qbrlrAwevSSXlZ_y9pfH-8">
           <mxGeometry x="45" y="80" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qbrlrAwevSSXlZ_y9pfH-10" value="запись в БД данных&amp;nbsp;&lt;div&gt;о смене статуса заказа&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qbrlrAwevSSXlZ_y9pfH-2">
+        <mxCell id="qbrlrAwevSSXlZ_y9pfH-10" value="обновление статуса заказа" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qbrlrAwevSSXlZ_y9pfH-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="160" as="sourcePoint" />
             <Array as="points">
@@ -155,7 +155,7 @@
             <mxPoint x="570" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GmB97jdXJiG9r33UN3gu-1" value="данные заказов из кэша" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qbrlrAwevSSXlZ_y9pfH-9">
+        <mxCell id="GmB97jdXJiG9r33UN3gu-1" value="данные заказа из БД" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qbrlrAwevSSXlZ_y9pfH-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="240" as="sourcePoint" />
             <Array as="points">
